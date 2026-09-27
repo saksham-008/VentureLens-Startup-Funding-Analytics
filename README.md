@@ -164,8 +164,6 @@ This helps identify patterns in how investment is distributed within the dataset
 
 ---
 
----
-
 ## 📈 Analyst Skills Demonstrated
 
 This project demonstrates practical skills relevant to a **Data Analyst / Business Analyst** role:
